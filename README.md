@@ -2,7 +2,7 @@
 Visual Computing project that involved rendering and of objects as well as creating a basketball game
 
 -Camera Movement 
-	- w - move camera up
+	\n- w - move camera up
 	- a - move camera left
 	- s - move camera down
 	- d - move camera right
