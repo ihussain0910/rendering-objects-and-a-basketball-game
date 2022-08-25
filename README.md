@@ -1,5 +1,5 @@
 # rendering-objects-and-a-basketball-game
-Visual Computing project that involved rendering and of objects as well as creating a basketball game
+Visual Computing coursework that involved rendering and of objects as well as creating a basketball game
 
 - Camera Movement:
 	- w - move camera up
