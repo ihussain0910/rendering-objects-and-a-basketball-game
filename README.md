@@ -1,7 +1,7 @@
 # rendering-objects-and-a-basketball-game
 Visual Computing project that involved rendering and of objects as well as creating a basketball game
 
--Camera Movement;
+- Camera Movement:
 	- w - move camera up
 	- a - move camera left
 	- s - move camera down
@@ -15,7 +15,7 @@ Visual Computing project that involved rendering and of objects as well as creat
 
 - When launching the cube should already be displayed and be rotating in all three axes
 - To stop the rotation inany axes press the x,y,z key to stop rotating in its repsective axes
-- For rendering press;
+- For rendering press:
 	- e - for edge rendering 
 	- v - for vertex rendering
 	- f - face rendering 
